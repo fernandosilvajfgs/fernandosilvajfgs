@@ -4,7 +4,7 @@
 I’m interested in web development, backend architecture, and building efficient, user-friendly applications. I’m passionate about working with JavaScript (Node.js, Vue.js, React.js), C# (.NET) and Java but I’m always eager to explore new technologies and deepen my skills in full-stack development.
 
 ## 🌱 Currently Learning
-I'm currently diving deeper into backend development and database management, primarily using PostgreSQL with Node.js or .NET. Additionally, I'm exploring fun side projects like building a blackjack game with Vue and a supermarket shopping app to refine my skills.
+I'm currently diving deeper into backend development and database management, primarily using PostgreSQL with Node.js or .NET. Additionally, I'm exploring fun side projects like building a blackjack game with Vue and a supermarket shopping app for my mother to refine my skills.
 
 ## 💞️ Looking to Collaborate On
 I’m looking to collaborate on open-source projects involving Vue.js, Node.js, .Net or projects focused on data-driven applications. I enjoy collaborating with teams that value code quality, simplicity, and innovation.
